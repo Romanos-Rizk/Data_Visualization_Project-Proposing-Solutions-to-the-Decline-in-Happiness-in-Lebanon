@@ -1,5 +1,7 @@
 # Decoding Happiness: Uncovering Challenges and Proposing Solutions in Lebanon
 
+## [Link to Blogpost](https://sites.aub.edu.lb/datavisualization/2023/11/24/happinessinlebanon/)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
